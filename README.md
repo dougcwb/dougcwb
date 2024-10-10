@@ -66,6 +66,13 @@
 </p>
 
 
+<h2>🔭 Projects</h2>
+<h3>Snowflake</h3>
+<ul>
+<li><a href="https://github.com/dougcwb/snowflake-hands-on" target="_blank" title="Snowflake Hands-On">Snowflake Hands-On</a> </li>
+<li><a href="https://github.com/dougcwb/pipeline-snowflake-dbt-airflow" target="_blank" title="Pipeline using Snowflake, dbt core and Airflow">Pipeline using Snowflake, dbt core and Airflow</a> </li>
+</ul>
+
 <h2>🔭 Personal Projects</h2>
 <h3>Home Assistant</h3>
 <p align="left">
